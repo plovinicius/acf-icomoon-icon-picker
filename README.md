@@ -1,5 +1,3 @@
-# ACF FIELD_LABEL Field
+# ACF Icomoon Icon Picker
 
-Welcome to the Advanced Custom Fields FIELD_LABEL repository on Github.
-
-EXTENDED_DESCRIPTION
+Welcome to the Advanced Custom Fields Icomoon Picker repository on Github.
